@@ -1,5 +1,7 @@
 # otonom_arac
 
+Bu arac GRAVITEAM takımının teknofest otonom iha yarışması için kullanıldı
+
 # Aruco.py dosyası:
 
 Bu dosya hızlı qr benzeri bir yapıyı algılamak için yazıldı. qr kütüphanelerinden daha hızlı ve etkili şekilde çalışıyor.
